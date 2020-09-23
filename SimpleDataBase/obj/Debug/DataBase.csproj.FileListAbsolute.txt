@@ -10,3 +10,15 @@ C:\Users\horfa\OneDrive\Рабочий стол\Лаба 4\SimpleDataBase\bin\De
 C:\Users\horfa\OneDrive\Рабочий стол\Лаба 4\SimpleDataBase\bin\Debug\SimpleDataBase.pdb
 C:\Users\horfa\OneDrive\Рабочий стол\Лаба 4\SimpleDataBase\obj\Debug\SimpleDataBase.exe
 C:\Users\horfa\OneDrive\Рабочий стол\Лаба 4\SimpleDataBase\obj\Debug\SimpleDataBase.pdb
+C:\Users\horfa\OneDrive\Рабочий стол\oop-lab4-halloweenja\SimpleDataBase\bin\Debug\SimpleDataBase.exe.config
+C:\Users\horfa\OneDrive\Рабочий стол\oop-lab4-halloweenja\SimpleDataBase\bin\Debug\SimpleDataBase.exe
+C:\Users\horfa\OneDrive\Рабочий стол\oop-lab4-halloweenja\SimpleDataBase\bin\Debug\SimpleDataBase.pdb
+C:\Users\horfa\OneDrive\Рабочий стол\oop-lab4-halloweenja\SimpleDataBase\obj\Debug\DataBase.csprojAssemblyReference.cache
+C:\Users\horfa\OneDrive\Рабочий стол\oop-lab4-halloweenja\SimpleDataBase\obj\Debug\SimpleDataBase.AddForm.resources
+C:\Users\horfa\OneDrive\Рабочий стол\oop-lab4-halloweenja\SimpleDataBase\obj\Debug\SimpleDataBase.MainForm.resources
+C:\Users\horfa\OneDrive\Рабочий стол\oop-lab4-halloweenja\SimpleDataBase\obj\Debug\SimpleDataBase.Properties.Resources.resources
+C:\Users\horfa\OneDrive\Рабочий стол\oop-lab4-halloweenja\SimpleDataBase\obj\Debug\SimpleDataBase.SearchForm.resources
+C:\Users\horfa\OneDrive\Рабочий стол\oop-lab4-halloweenja\SimpleDataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+C:\Users\horfa\OneDrive\Рабочий стол\oop-lab4-halloweenja\SimpleDataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\horfa\OneDrive\Рабочий стол\oop-lab4-halloweenja\SimpleDataBase\obj\Debug\SimpleDataBase.exe
+C:\Users\horfa\OneDrive\Рабочий стол\oop-lab4-halloweenja\SimpleDataBase\obj\Debug\SimpleDataBase.pdb
