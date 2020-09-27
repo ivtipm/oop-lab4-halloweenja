@@ -8,7 +8,7 @@ using System.IO;
 
 namespace SimpleDataBase
 {
-    public class BooksData
+    public class GamersData
     {
         ArrayList gamer = new ArrayList();
 

@@ -13,7 +13,7 @@ namespace SimpleDataBase
     public partial class MainForm : Form
     {
         Point newPoint;
-        public BooksData data = new BooksData();
+        public GamersData data = new GamersData();
         public string oldValue = "";
         public string filename = "";
 
